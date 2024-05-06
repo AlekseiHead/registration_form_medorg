@@ -14,7 +14,7 @@ import "../styles/ProtocolComponent.css";
 const ProtocolComponent = () => {
   return (
     <Container className="container">
-      <h1>Форма протокола рентгенологического исследования</h1>
+      <h1>Форма записи на обследование</h1>
       <Form>
         <FormGroup row>
           <Label sm={12} className="header">
