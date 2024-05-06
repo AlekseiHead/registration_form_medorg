@@ -1,6 +1,9 @@
 Форма записи на обследование для медицинских организаций.
 Создано для лаболатории DPHT в рамках работы над проектом.
 
+English version.
+Examination registration form for medical organizations. Created for the DPHT laboratory as part of a project.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
