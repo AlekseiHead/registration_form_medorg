@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+Форма записи на обследование для медицинских организаций.
+Создано для лаболатории DPHT в рамках работы над проектом.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
